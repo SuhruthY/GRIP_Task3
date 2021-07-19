@@ -1,6 +1,10 @@
 # Exploring the GLobal Terrorism Data
 
-[Codebook][1]
+## Overview
+&emsp;Despite of many strategies performed by various Security and Intelligence agencies around the world, terrorist activities are still can't be overcomed. Recently, data-mining techniques have evolved to allow identifcation of patterns and associations in criminal. This project aims to find a metric to quantify terrorism, compare consecutive years with repsect to casualities and uncover hidden patterns in Global Terrorism Data(GTD). 
+ 
+&emsp;The data is taken from the [GTD database][11] which includes the latest data upto 2019 (reference for 2020) and with 1993 provided as seperate file. Take a look at the [Codebook][1] provided by the GTD which includes detailed documentation about the data. I have used SQLite with Database Browser to subset the data and then perform various cleaning and preprocessing using programming languages such as Python and R programming. I then used Tableau, a Data visualization tool to join and explore the data.
+
 
 
 
@@ -26,3 +30,5 @@
 [8]: https://journals.sagepub.com/doi/full/10.1177/0022002713508927
 [9]: https://dl.acm.org/doi/10.1145/2505515.2505612#pill-authors__contentcon
 [10]: https://youtu.be/Ie8eZaV6-0E
+
+[11]: https://www.start.umd.edu/gtd/access/
