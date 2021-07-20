@@ -1,4 +1,4 @@
-# Exploring the GLobal Terrorism Data
+# Exploring the GLobal Terrorism Data: [Tableau Public][13]
 
 ## Overview
 &emsp;Despite various strategies performed by Security and Intelligence agencies throughout the world, terrorist activities are still a millennium challenge. Recently, data-mining techniques have evolved to allow the identification of patterns and associations in criminals. 
@@ -81,4 +81,5 @@ Dividing the project into segments and smaller, it aims to
 [11]: https://www.start.umd.edu/gtd/access/
 
 [12]: https://rpubs.com/SuhruthYambakam/GTD-EDA-backend
+[13]: https://public.tableau.com/views/GTD_EDA_06/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 [13]: https://nbviewer.jupyter.org/github/SuhruthY/GRIP_Task3/blob/master/Code%20Samples/GTI_scores.ipynb
