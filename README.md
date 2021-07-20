@@ -46,7 +46,7 @@ Dividing the project into segments and smaller, it aims to
 
 &emsp;Iterative topic modeling is performed with the textual data to understand the term frequency and document the frequency of the top words in each year.
 
-&emsp;You can find out the detailed explanation in [Exploring the Global Terrosism Data: The bakend by Suhruth Yambakam][12]
+&emsp;You can find out the detailed explanation in [Exploring the Global Terrosism Data: The bakend][12]
 
 ## Conclusion & Future Scope
 &emsp;In summary, we have derived a potential metric to quantify terrorism, observed the similarities and dissimilarities between consecutive years, unleashed patterns through different statistical methods.
